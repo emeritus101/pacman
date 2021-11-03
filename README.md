@@ -1,6 +1,6 @@
 # Pacmen
 
-![name-of-you-image](https://github.com/emeritus101/emeritus101.github.io/blob/main/portfolio/pacman/packman.JPG)
+![name-of-you-image](https://github.com/emeritus101/pacman/blob/main/packman.JPG)
 
 ## Description: 
 Using JavaScript we "move" the popular Pacman from left to right and reverse. We work in the code to dentify edges and its position. 
